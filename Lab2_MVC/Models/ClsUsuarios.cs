@@ -11,5 +11,7 @@ namespace Lab2_MVC.Models
         public string nombre { get; set; }
         public string apellidp { get; set; }
         public String direccion { get; set; }
+        public String casa { get; set; }
+        public String fehca { get; set; }
     }
 }
