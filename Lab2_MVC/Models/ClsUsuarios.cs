@@ -13,5 +13,7 @@ namespace Lab2_MVC.Models
         public String direccion { get; set; }
         public String casa { get; set; }
         public String fehca { get; set; }
+        public  int numeros{ get; set; }
+        public int dolares { get; set; }
     }
 }
